@@ -1,0 +1,187 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.name-highlight{
+    color: #EC4E8B;
+}
+
+p{
+    color: dimgray;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: #EC4E8B;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 70%;
+}
+
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+
+.content-padding{
+    padding-top: 80px;
+}
+
+.content-padding2{
+    padding-top: 100px;
+    padding-left: 40px;
+}
+
+.image-padding{
+    padding-top: 50px;
+}
+
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+
+.work-text h2{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.gallary{
+    display: block;
+    float: left;
+    width: 30%;
+    padding: 10px;
+}
+
+.gallary img{
+    width: 100%;
+}
+
+.main-gallary{
+    margin-left: 90px;
+    padding-top: 30px;
+}
+
+.footer-bg{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.client-text{
+    padding-top: 30px;
+}
+
+.client-text h4 {
+    text-align: center;
+}
+
+.client-text h5 {
+    text-align: center;
+    color: dimgray;
+}
+
+.client-text p{
+    text-align: center;
+    padding: 30px 300px;
+    font-weight: 900;
+    color: black;
+}
+
+.single-experience{
+    
+    border-radius: 5px;
+    height: 30%; 
+    background-color: #EC4E8B;
+    margin: 0px 400px;
+ }
+
+ #baby-web p{
+     color: white;
+     text-align: center;
+     padding-top: 30px;
+    }
+
+ #baby-web h2{
+    color: white;
+    text-align: center;
+}
+
+
+.footer-text{
+    text-align: center;
+    font-size: small;
+}
+
+.experince-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#baby-web2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+
+.single1-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%; 
+    background-color: white;
+ }
+
+ .half-width1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.work-text1 h2{
+    font-weight: bolder;
+    text-align: center;
+    padding: 30px 0px;
+    font-size: 30px;
+}
